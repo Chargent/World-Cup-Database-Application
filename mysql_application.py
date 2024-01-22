@@ -9,7 +9,7 @@ import builder
 
 psw = input('Insert your password: ')
 
-builder.create_and_fill_database(psw)
+mysql_builder.create_and_fill_database(psw)
 
 db_name = 'WorldCupDB'
 
