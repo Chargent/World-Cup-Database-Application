@@ -1,5 +1,5 @@
 # **Welcome to the World Cup Database App!**
-## by Contino Andrea.
+## by Contino Andrea and Sebastiani Mattia.
 
 To run the MySQL application you only need to run the mysql_application.py file.
 
